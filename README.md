@@ -41,6 +41,16 @@ Users should be able to:
 
 ## My process
 
+I took the mobile-first approach for this project. First, I created the `components` folder that would hold all the components for this project:
+- `Cards.jsx`
+- `BackCard.jsx`
+- `FrontCard.jsx`
+- `CardLogo.jsx`
+- `Form.jsx`
+- `Inputs.jsx`
+- `CardName.jsx`
+
+
 ### Built with
 
 - Semantic HTML5 markup
