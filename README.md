@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/images/Screenshot.png)
 
 
 ### Links
 
-- []()
-- []()
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-and-interactive-card-details-form-using-react-YPeqQyHkVu)
+- [Live Site URL](https://cardfront.netlify.app/)
 
 ## My process
 
